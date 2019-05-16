@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to Todd Schaffer's Dice Homepage
 
 You can use the [editor on GitHub](https://github.com/toddschaffer/dice-homework/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
