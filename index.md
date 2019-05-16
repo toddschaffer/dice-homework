@@ -1,8 +1,8 @@
 # Welcome to Todd Schaffer's Dice Homepage
 
-You can use the [editor on GitHub](https://github.com/toddschaffer/dice-homework/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Only 4 more weeks until graduation!
 
-There is learning curve at the beginning but, it gets easier!
+Almost done!
 
 ### Markdown
 
