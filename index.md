@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/toddschaffer/dice-homework/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There is learning curve at the beginning but, it gets easier!
 
 ### Markdown
 
