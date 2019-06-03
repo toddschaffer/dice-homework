@@ -4,6 +4,16 @@ Only 4 more weeks until graduation!
 
 Almost done!
 
+## New Branch
+
+Hi Todd, I'm adding this just so you can see what it's like to have someone work on your site, write it on a new branch in their fork, and ultimately, so you can receive a pull request, which you can then accept or reject. Pretty cool, huh?
+
+Don't worry, I won't be offended when you reject my pull request. ;)
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
